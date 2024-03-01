@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Listening to Spotify","Watching YouTube"];
+const statusMessages = ["ini_S2 no Twitter","inirl_ no Instagram","ini_rl no YouTube e Tiktok"];
 
 
 let currentIndex = 0;
